@@ -6,9 +6,18 @@ Seja bem-vindo ao meu perfil no GitHub! Sou desenvolvedor full-stack com foco no
 
 ## 🛠️ **Tecnologias que domino:**
 
-- **Linguagens:** JavaScript, TypeScript, Node.JS   
-- **Frameworks e Bibliotecas:** Vue.js, React, Express, Fastify  
+- **Linguagens:** JavaScript, TypeScript  
+- **Ferramentas, Frameworks e Bibliotecas:** Node.JS, Vue.js, React, Express, Fastify
 - **Banco de Dados:** SQLite, PostgreSQL, MySQL  
-- **Ferramentas e Outros:** Docker, Knex.js, Prisma, Git, Figma  
+- **Outros:** Docker, Knex.js, Prisma, Vitest, Vite, Git, Figma  
 
 ---
+
+## 🖇️ **Conecte-se comigo:**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rhuanguilherme23/)  
+- 📸 [Instagram](https://www.instagram.com/rhuanguilherme23)  
+
+---
+
+> 💡 _"O único limite para a realização de amanhã são as dúvidas de hoje."_  
